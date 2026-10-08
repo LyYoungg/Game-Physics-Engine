@@ -1,0 +1,7 @@
+build*/
+out/
+.vs/
+.vscode/
+*.exe
+*_log.txt
+smoke.png
